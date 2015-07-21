@@ -10,9 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            // some change a
-            // new changea
-            // change conflict herea
+            // some text
         }
     }
 }
